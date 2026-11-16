@@ -1,4 +1,4 @@
-import Fastify from "npm:fastify@4";
+import Fastify from "npm:fastify@5";
 
 const fastify = Fastify();
 
